@@ -12,8 +12,7 @@
 - Member 3: [Khadeejath thahnia] - [LBSCEK]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+https://maryamluba.github.io/kindify-/
 ### Project Description
 [Project Theme: "Life Simplified"
 Challenge: Build an app or website that suggests small, random acts of kindness users can do daily to brighten someone’s day.]
